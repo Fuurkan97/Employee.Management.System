@@ -1,0 +1,12 @@
+
+D
+java:S2189	""Add an end condition to this loop.(ü§è½ùÿÿÿÿ8…ŽÊò³1
+Y
+java:S2589 "7Remove this expression which always evaluates to "true"(‰²Ûùûÿÿÿÿ8…ŽÊò³1
+X	java:S125"<This block of commented-out lines of code should be removed.(„ËŸ„8‰ŽÊò³1
+]	java:S125"<This block of commented-out lines of code should be removed.(½ˆêŸûÿÿÿÿ8‰ŽÊò³1
+X	java:S125"<This block of commented-out lines of code should be removed.(×û¡8ŠŽÊò³1
+X	java:S125"<This block of commented-out lines of code should be removed.(¸§‘½8ŠŽÊò³1
+L	java:S106,"+Replace this use of System.out by a logger.(Æ¼ˆ¼ÿÿÿÿÿ8ŠŽÊò³1
+T
+java:S6126,"2Replace this String concatenation with Text block.(Æ¼ˆ¼ÿÿÿÿÿ8‹ŽÊò³1

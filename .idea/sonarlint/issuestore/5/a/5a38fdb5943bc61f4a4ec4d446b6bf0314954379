@@ -1,0 +1,10 @@
+
+…
+java:S1319"cThe type of "empset" should be an interface such as "Set" rather than the implementation "HashSet".(¿®Öïùÿÿÿÿ8ÆåÈò³1
+t
+java:S1104"RMake empset a static final constant or non-public and provide accessors if needed.(¿®Öïùÿÿÿÿ8ÇåÈò³1
+N
+java:S1444",Make this "public static empset" field final(¿®Öïùÿÿÿÿ8ÇåÈò³1
+?
+java:S2386"Make this member "protected".(¿®Öïùÿÿÿÿ8ËåÈò³1
+L	java:S106"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8ÍåÈò³1
